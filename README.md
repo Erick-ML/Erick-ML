@@ -13,7 +13,7 @@
  
  <br>
  
-  ### Tmabém me siga nas redes sociais!
+  ### Me siga nas redes sociais!
  
 <div> 
   <a href="https://www.youtube.com/channel/UC7JIcfN4zneyTkdS6ei2tgA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
